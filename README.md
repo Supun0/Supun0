@@ -24,7 +24,7 @@ I’m a passionate full-stack developer who builds real-world web and mobile app
 HTML5 · CSS3 · JavaScript · Bootstrap · Tailwind  
 
 **Backend:**  
-PHP · MySQL · REST APIs · Node.js (Basics)  
+PHP · MySQL · REST APIs · Node.js 
 
 **Mobile:**  
 Flutter  
